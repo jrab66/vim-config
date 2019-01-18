@@ -76,7 +76,8 @@ syntax enable
     set ignorecase                  " caseinsensitive searches
     set showmode                    " always show command or insert mode
 
-    set nonu nornu                  " Don't show line numbers by default
+    set number        
+    "set nonu nornu                  " Don't show line numbers by default
 
     set foldmethod=marker           " Enable folding by fold markers
     set foldclose=all               " Autoclose folds, when moving out of them
