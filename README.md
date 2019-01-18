@@ -22,7 +22,13 @@ An _**easy to deploy**_ set of pre-configured `VIM` plugins and configurations t
     :nnoremap <leader>p :set invpaste<CR>
     :nnoremap <F3> :set invpaste<CR>
     ```
+ - if you use Tmux  insert or create `.tmux.conf` in `$HOME` dir :
+    
+    ```VimL
+    set -g default-terminal "xterm-256color"
+    ```
 
+    
 ## Features
 
 The following plugins are installed and configured:
