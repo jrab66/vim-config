@@ -149,6 +149,7 @@ syntax enable
     " https://github.com/scrooloose/nerdtree
     "
     imap <Leader>sp :NERDTreeToggle<CR>
+    map <C-n> :NERDTreeToggle<CR>
 
     " }}}
 
