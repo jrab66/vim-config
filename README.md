@@ -7,7 +7,7 @@ An _**easy to deploy**_ set of pre-configured `VIM` plugins and configurations t
 - clone the repo into **your home `.vim`** directory
 
     ```Shell
-    git clone https://github.com/faktiva/vim-config.git ~/.vim && cd ~/.vim ; git submodule update --init
+    git clone https://github.com/jrab66/vim-config.git ~/.vim && cd ~/.vim ; git submodule update --init
     ```
 
 - insert the following to `.vimrc`:
